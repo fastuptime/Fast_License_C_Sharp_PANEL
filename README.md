@@ -65,7 +65,6 @@ Fast License is a free licensing system that allows you to manage software licen
 3. **Login**:
     - Use the default admin credentials provided in the `config.js` file.
 
-![Admin Panel Screenshot](path_to_your_screenshot.png)
 
 ## ⚙️ Configuration
 
