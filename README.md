@@ -32,6 +32,7 @@ Fast License is a free licensing system that allows you to manage software licen
 - **Automated Checks**: Periodically check and update license statuses.
 - **Admin Panel**: User-friendly panel to manage licenses and view logs.
 - **Reports**: Track and review license-related reports.
+- **IP Validation**: The program only works on the specified IP address.
 
 ## 🛠️ Installation
 
