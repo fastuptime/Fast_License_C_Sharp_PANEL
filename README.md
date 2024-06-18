@@ -13,6 +13,7 @@
 Fast License is a free licensing system that allows you to manage software licenses easily and efficiently. This project provides a comprehensive panel for creating, editing, and managing licenses, along with an API for license validation.
 
 💻 [C# Sample Integration](https://github.com/fastuptime/Fast_License_C_Sharp_Program) 💻
+✨ [Web Site License Management Panel](https://github.com/fastuptime/Fast_License) ✨
 
 ## 📋 Table of Contents
 
